@@ -57,4 +57,5 @@ Para explorar o dashboard, faça o download do arquivo `.pbix` presente neste re
 
 ---
 
-**Autor:** [Seu Nome/Seu Usuário do GitHub]
+**Autor:** Datascience Academy
+**Aluno:** Gustavo Alves/@Gustsilv
